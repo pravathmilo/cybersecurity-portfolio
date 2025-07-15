@@ -39,7 +39,7 @@ const Index: React.FC = () => {
             <div className="space-y-2">
               <h1 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl">
                 <span className="block font-mono relative overflow-hidden">
-                  //Aitham
+                  
                   <span className="absolute inset-0 bg-cyber-dark/30 animate-scanline" />
                 </span>
                 <span className="block text-cyber-blue cyber-text-shadow">
